@@ -6,7 +6,7 @@
 
 using namespace std;
 
-template <class idv>
+template <typename idv>
 class Sorter
 {
 public:
